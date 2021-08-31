@@ -1,0 +1,39 @@
+.container {
+	width: 100%;
+	top: 0px;
+}
+
+.left-container {
+	background-color: #d8e6db;
+	position: absolute;
+	width: 30%;
+	left: 10%;
+}
+
+.right-container {
+	background-color: #d8e6db;
+	position: absolute;
+	left: 30%;
+	width: 15%;
+}
+
+body {
+	background-color: #f0f2f0;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+a {
+	font-size: 20px;
+}
+
+ul {
+	font-size: 18px;
+	font-weight: bolder;
+}
