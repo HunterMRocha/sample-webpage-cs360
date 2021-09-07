@@ -3,6 +3,7 @@
 	top: 0px;
 }
 
+
 .left-container {
 	background-color: #d8e6db;
 	position: absolute;
@@ -15,6 +16,11 @@
 	position: absolute;
 	left: 30%;
 	width: 15%;
+}
+
+.ass2 {
+	position: absolute;
+	top: 300px;
 }
 
 body {
